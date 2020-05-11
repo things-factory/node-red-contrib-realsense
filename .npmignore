@@ -1,0 +1,12 @@
+.vscode
+.prettierrc
+.editorconfig
+.gitignore
+.git
+.stylelintrc
+.travis.yml
+.yarnclean
+.DS_Store
+*.log
+npm-debug.log
+node_modules/
